@@ -1,0 +1,8 @@
+{
+  "variant": "professional",
+  "primary": "#DD0000",
+  "accent": "#FFCE00",
+  "neutral": "#2B3F44",
+  "appearance": "light",
+  "radius": 0.25
+}
